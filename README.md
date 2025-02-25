@@ -23,4 +23,6 @@ cd Titanic-Survival-prediction
 pip install -r requirements.txt
 
 import joblib
-model = joblib.load("titanic_model.pkl")
+model = joblib.load("titanic_model.pkl
+
+GitHub Repository : https://github.com/Shayanghfi/Titanic-Survival-prediction.git
